@@ -3,10 +3,9 @@
 <br />
 
 <h3>In this project i used several libraries:</h3>
-<br />
-cv2 and mediapipe - For hand detection
-<br />
-numpy - To merge numerical ranges
-<br />
-pycaw - For control soundbar volume
 
+<ul>
+  <li>cv2 and mediapipe - For hand detection</li>
+  <li>numpy - To merge numerical ranges</li>
+  <li>pycaw - For control soundbar volume</li>
+</ul>
