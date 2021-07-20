@@ -4,9 +4,7 @@
 <p>
   <h3>In this project i used several libraries:<h3/>
   <br/>
-  <ul>
-    <li>cv2 and mediapipe - For hand detection<li/>
-    <li>numpy - To merge numerical ranges<li/>
-    <li>pycaw - For control soundbar volume<li/>
-  <ul/>
+  cv2 and mediapipe - For hand detection<li/>
+  numpy - To merge numerical ranges
+  pycaw - For control soundbar volume
 <p/>
