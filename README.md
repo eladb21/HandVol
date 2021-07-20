@@ -2,11 +2,11 @@
 <br />
 <br />
 
-<h3>In this project i used several libraries:<h3/>
-<br/>
+<h3>In this project i used several libraries:</h3>
+<br />
 cv2 and mediapipe - For hand detection
-<br/>
+<br />
 numpy - To merge numerical ranges
-<br/>
+<br />
 pycaw - For control soundbar volume
 
