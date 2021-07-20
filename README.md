@@ -11,4 +11,4 @@
 </ul>
 <br />
 <br />
-<img src="Images/zero_resized.png" alt="zero" width="160" height="160">
+<img src="Images/zero_resized.png" alt="zero" width="450" height="300">
