@@ -9,3 +9,6 @@
   <li>numpy - To merge numerical ranges</li>
   <li>pycaw - For control soundbar volume</li>
 </ul>
+<br />
+<br />
+<img src="Images/zero_resized.PNG" alt="zero" width="160" height="160">
