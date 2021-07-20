@@ -12,3 +12,9 @@
 <br />
 <br />
 <img src="Images/zero_resized.png" alt="zero" width="600" height="300">
+<br />
+<br />
+<img src="Images/half_resized.png" alt="zero" width="600" height="300">
+<br />
+<br />
+<img src="Images/max_resized.png" alt="zero" width="600" height="300">
